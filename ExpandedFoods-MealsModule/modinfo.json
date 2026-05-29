@@ -1,0 +1,9 @@
+{
+    "type": "Content",
+    "modid": "ef-mealsmodule",
+    "name": "Expanded Foods: Meals",
+    "authors": ["l33tmaan"],
+    "description": "BIG MEALS FOR BIG EATERS!!! ",
+    "version": "1.0.0-dev.1",
+    "dependencies": {"expandedfoods": "2.0.0-dev.8"}
+}
