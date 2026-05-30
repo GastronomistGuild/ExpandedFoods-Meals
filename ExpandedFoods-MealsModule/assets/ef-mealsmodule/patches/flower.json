@@ -1,0 +1,15 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributes/nutritionPropsWhenInMealByType",
+    "value": {
+      "*-wilddaisy-free": {
+        "satiety": 50,
+        "health": 0.5,
+        "foodcategory": "Vegetable"
+      }
+    },
+    "side": "server",
+    "file": "game:blocktypes/plant/flower.json"
+  }
+]

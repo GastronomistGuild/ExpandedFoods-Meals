@@ -11,7 +11,7 @@
 		{
           "code": "rice-base", 
           "validStacks": [ 
-            { "type": "item", "code": "grain-rice",  "shapeElement": "bowl/riceandbeans", "textureMapping": ["riceandbeans", "riceandbeans"], "quantity": 2 }
+            { "type": "item", "code": "game:grain-rice",  "shapeElement": "bowl/riceandbeans", "textureMapping": ["riceandbeans", "riceandbeans"], "quantity": 2 }
           ],
           "minQuantity": 1,
           "maxQuantity": 1,
@@ -32,17 +32,17 @@
 		{
 			"code": "vegetable-base", 
 			"validStacks": [ 
-				{ "type": "item", "code": "vegetable-cabbage",  "shapeElement": "bowl/vegetable 1/*" },
-				{ "type": "item", "code": "vegetable-carrot",  "shapeElement": "bowl/vegetable 1/*" },
-				{ "type": "item", "code": "vegetable-onion",  "shapeElement": "bowl/vegetable 1/*" },
-				{ "type": "item", "code": "vegetable-parsnip",  "shapeElement": "bowl/vegetable 1/*" },
-				{ "type": "item", "code": "vegetable-turnip",  "shapeElement": "bowl/vegetable 1/*" },
-				{ "type": "item", "code": "vegetable-pumpkin",  "shapeElement": "bowl/vegetable 1/*" },
-				{ "type": "item", "code": "vegetable-bellpepper",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["fruit", "group8"] },
-				{ "type": "item", "code": "mushroom-*", "shapeElement": "bowl/vegetable base 1/*" },
-                { "type": "item", "code": "legume-soybean",  "shapeElement": "bowl/vegetable 1/*" },
-				{ "type": "item", "code": "pickledvegetable-*",  "shapeElement": "bowl/vegetable 1/*" },
-				{ "type": "item", "code": "pickledlegume-soybean",  "shapeElement": "bowl/vegetable 1/*" },
+				{ "type": "item", "code": "game:vegetable-cabbage",  "shapeElement": "bowl/vegetable 1/*" },
+				{ "type": "item", "code": "game:vegetable-carrot",  "shapeElement": "bowl/vegetable 1/*" },
+				{ "type": "item", "code": "game:vegetable-onion",  "shapeElement": "bowl/vegetable 1/*" },
+				{ "type": "item", "code": "game:vegetable-parsnip",  "shapeElement": "bowl/vegetable 1/*" },
+				{ "type": "item", "code": "game:vegetable-turnip",  "shapeElement": "bowl/vegetable 1/*" },
+				{ "type": "item", "code": "game:vegetable-pumpkin",  "shapeElement": "bowl/vegetable 1/*" },
+				{ "type": "item", "code": "game:vegetable-bellpepper",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["fruit", "group8"] },
+				{ "type": "item", "code": "game:mushroom-*", "shapeElement": "bowl/vegetable base 1/*" },
+                { "type": "item", "code": "game:legume-soybean",  "shapeElement": "bowl/vegetable 1/*" },
+				{ "type": "item", "code": "game:pickledvegetable-*",  "shapeElement": "bowl/vegetable 1/*" },
+				{ "type": "item", "code": "game:pickledlegume-soybean",  "shapeElement": "bowl/vegetable 1/*" },
 				{ "type": "item", "code": "expandedfoods:choppedvegetable-carrot",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group1"]},
 				{ "type": "item", "code": "expandedfoods:choppedvegetable-pickledcarrot",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group1"]},
 				{ "type": "item", "code": "expandedfoods:choppedvegetable-parsnip",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group4"]},
@@ -103,17 +103,17 @@
 		{
 			"code": "vegetable-base2", 
 			"validStacks": [ 
-				{ "type": "item", "code": "vegetable-cabbage",  "shapeElement": "bowl/vegetable 2/*" },
-				{ "type": "item", "code": "vegetable-carrot",  "shapeElement": "bowl/vegetable 2/*" },
-				{ "type": "item", "code": "vegetable-onion",  "shapeElement": "bowl/vegetable 2/*" },
-				{ "type": "item", "code": "vegetable-parsnip",  "shapeElement": "bowl/vegetable 2/*" },
-				{ "type": "item", "code": "vegetable-turnip",  "shapeElement": "bowl/vegetable 2/*" },
-				{ "type": "item", "code": "vegetable-pumpkin",  "shapeElement": "bowl/vegetable 2/*" },
-				{ "type": "item", "code": "vegetable-bellpepper",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["fruit", "group8"] },
-				{ "type": "item", "code": "mushroom-*",  "shapeElement": "bowl/vegetable 2/*" },
-				{ "type": "item", "code": "legume-soybean",  "shapeElement": "bowl/vegetable 2/*" },
-				{ "type": "item", "code": "pickledvegetable-*",  "shapeElement": "bowl/vegetable 2/*" },
-				{ "type": "item", "code": "pickledlegume-soybean",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:vegetable-cabbage",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:vegetable-carrot",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:vegetable-onion",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:vegetable-parsnip",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:vegetable-turnip",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:vegetable-pumpkin",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:vegetable-bellpepper",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["fruit", "group8"] },
+				{ "type": "item", "code": "game:mushroom-*",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:legume-soybean",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:pickledvegetable-*",  "shapeElement": "bowl/vegetable 2/*" },
+				{ "type": "item", "code": "game:pickledlegume-soybean",  "shapeElement": "bowl/vegetable 2/*" },
 				{ "type": "item", "code": "expandedfoods:choppedvegetable-carrot",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group1"]},
 				{ "type": "item", "code": "expandedfoods:choppedvegetable-pickledcarrot",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group1"]},
 				{ "type": "item", "code": "expandedfoods:choppedvegetable-parsnip",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group4"]},
@@ -174,8 +174,8 @@
 		{ 
 			"code": "egg-extra", 
 			"validStacks": [ 
-				{ "type": "item", "code": "egg-chicken-boiled",  "shapeElement": "bowl/egg/*" },
-				{ "type": "item", "code": "egg-chicken-pickled",  "shapeElement": "bowl/egg/*" }
+				{ "type": "item", "code": "game:egg-chicken-boiled",  "shapeElement": "bowl/egg/*" },
+				{ "type": "item", "code": "game:egg-chicken-pickled",  "shapeElement": "bowl/egg/*" }
 			],
 			"minQuantity": 0,
 			"maxQuantity": 1,
@@ -184,8 +184,8 @@
         {
           "code": "egg-extra2",
           "validStacks": [
-            { "type": "item", "code": "egg-chicken-boiled",  "shapeElement": "bowl/egg2/*" },
-            { "type": "item", "code": "egg-chicken-pickled",  "shapeElement": "bowl/egg2/*" }
+            { "type": "item", "code": "game:egg-chicken-boiled",  "shapeElement": "bowl/egg2/*" },
+            { "type": "item", "code": "game:egg-chicken-pickled",  "shapeElement": "bowl/egg2/*" }
           ],
           "minQuantity": 0,
           "maxQuantity": 1,
@@ -194,16 +194,16 @@
 		{
 			"code": "protein-extra",
 			"validStacks": [ 
-				{ "type": "item", "code": "redmeat-raw",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group2"] },
-				{ "type": "item", "code": "redmeat-cured",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group2"] },
-				{ "type": "item", "code": "bushmeat-raw",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group7"] },
-				{ "type": "item", "code": "bushmeat-cured",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group7"] },
-				{ "type": "item", "code": "poultry-raw",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "group3"] },
-				{ "type": "item", "code": "poultry-cured",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "group3"] },
-				{ "type": "item", "code": "fish-raw",  "shapeElement": "bowl/fish/*", "textureMapping": ["normal", "group1"] },
-				{ "type": "item", "code": "fish-cured",  "shapeElement": "bowl/fish/*", "textureMapping": ["normal", "group1"] },
-				{ "type": "item", "code": "fish-smoked",  "shapeElement": "bowl/fish/*", "textureMapping": ["normal", "group1"] },
-				{ "type": "item", "code": "fish-cured-smoked",  "shapeElement": "bowl/fish/*", "textureMapping": ["normal", "group1"] },
+				{ "type": "item", "code": "game:redmeat-raw",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group2"] },
+				{ "type": "item", "code": "game:redmeat-cured",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group2"] },
+				{ "type": "item", "code": "game:bushmeat-raw",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group7"] },
+				{ "type": "item", "code": "game:bushmeat-cured",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group7"] },
+				{ "type": "item", "code": "game:poultry-raw",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "group3"] },
+				{ "type": "item", "code": "game:poultry-cured",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "group3"] },
+				{ "type": "item", "code": "game:fish-raw",  "shapeElement": "bowl/fish/*", "textureMapping": ["normal", "group1"] },
+				{ "type": "item", "code": "game:fish-cured",  "shapeElement": "bowl/fish/*", "textureMapping": ["normal", "group1"] },
+				{ "type": "item", "code": "game:fish-smoked",  "shapeElement": "bowl/fish/*", "textureMapping": ["normal", "group1"] },
+				{ "type": "item", "code": "game:fish-cured-smoked",  "shapeElement": "bowl/fish/*", "textureMapping": ["normal", "group1"] },
 				{ "type": "item", "code": "expandedfoods:meatnugget-bushmeat-raw",  "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "bushmeat-raw"]  },
 				{ "type": "item", "code": "expandedfoods:meatnugget-redmeat-raw",  "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "redmeat-raw"]  },
 				{ "type": "item", "code": "expandedfoods:meatnugget-poultry-raw",  "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "poultry-raw"]  },
@@ -263,16 +263,16 @@
 		{
 			"code": "meat-extra",
 			"validStacks": [ 
-				{ "type": "item", "code": "redmeat-raw",  "shapeElement": "bowl/red meat 2/*", "textureMapping": ["meat", "group2"] },
-				{ "type": "item", "code": "redmeat-cured",  "shapeElement": "bowl/red meat 2/*", "textureMapping": ["meat", "group2"] },
-				{ "type": "item", "code": "bushmeat-raw",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group7"] },
-				{ "type": "item", "code": "bushmeat-cured",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group7"] },
-				{ "type": "item", "code": "poultry-raw",  "shapeElement": "bowl/poultry 2/*", "textureMapping": ["meat", "group3"] },
-				{ "type": "item", "code": "poultry-cured",  "shapeElement": "bowl/poultry 2/*", "textureMapping": ["meat", "group3"] },
-				{ "type": "item", "code": "fish-raw",  "shapeElement": "bowl/fish 2/*", "textureMapping": ["normal", "group1"] },
-				{ "type": "item", "code": "fish-cured",  "shapeElement": "bowl/fish 2/*", "textureMapping": ["normal", "group1"] },
-				{ "type": "item", "code": "fish-smoked",  "shapeElement": "bowl/fish 2/*", "textureMapping": ["normal", "group1"] },
-				{ "type": "item", "code": "fish-cured-smoked",  "shapeElement": "bowl/fish 2/*", "textureMapping": ["normal", "group1"] },
+				{ "type": "item", "code": "game:redmeat-raw",  "shapeElement": "bowl/red meat 2/*", "textureMapping": ["meat", "group2"] },
+				{ "type": "item", "code": "game:redmeat-cured",  "shapeElement": "bowl/red meat 2/*", "textureMapping": ["meat", "group2"] },
+				{ "type": "item", "code": "game:bushmeat-raw",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group7"] },
+				{ "type": "item", "code": "game:bushmeat-cured",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group7"] },
+				{ "type": "item", "code": "game:poultry-raw",  "shapeElement": "bowl/poultry 2/*", "textureMapping": ["meat", "group3"] },
+				{ "type": "item", "code": "game:poultry-cured",  "shapeElement": "bowl/poultry 2/*", "textureMapping": ["meat", "group3"] },
+				{ "type": "item", "code": "game:fish-raw",  "shapeElement": "bowl/fish 2/*", "textureMapping": ["normal", "group1"] },
+				{ "type": "item", "code": "game:fish-cured",  "shapeElement": "bowl/fish 2/*", "textureMapping": ["normal", "group1"] },
+				{ "type": "item", "code": "game:fish-smoked",  "shapeElement": "bowl/fish 2/*", "textureMapping": ["normal", "group1"] },
+				{ "type": "item", "code": "game:fish-cured-smoked",  "shapeElement": "bowl/fish 2/*", "textureMapping": ["normal", "group1"] },
 				{ "type": "item", "code": "expandedfoods:meatnugget-bushmeat-raw",  "shapeElement": "bowl/meatnugget 2/*", "textureMapping": ["meatnugget", "bushmeat-raw"] },
 				{ "type": "item", "code": "expandedfoods:meatnugget-redmeat-raw",  "shapeElement": "bowl/meatnugget 2/*", "textureMapping": ["meatnugget", "redmeat-raw"]  },
 				{ "type": "item", "code": "expandedfoods:meatnugget-poultry-raw",  "shapeElement": "bowl/meatnugget 2/*", "textureMapping": ["meatnugget", "poultry-raw"]  },
@@ -366,7 +366,7 @@
     	},
 		{
 			"code": "salt", 
-			"validStacks": [ { "type": "item", "code": "salt"}],
+			"validStacks": [ { "type": "item", "code": "game:salt"}],
 			"minQuantity": 0,
 			"maxQuantity": 1,
             "typeName": "salt"

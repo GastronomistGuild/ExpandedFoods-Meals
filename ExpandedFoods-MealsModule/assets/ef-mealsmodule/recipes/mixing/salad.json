@@ -6,7 +6,7 @@
 		"transitionRatio": 1,
 		"transitionedStack": { "type": "item", "code": "game:rot" }
 	},
-	"shape": { "base": "block/meal/salad" },
+	"shape": { "base": "ef-mealsmodule:block/meal/salad" },
 	"ingredients": [
 		{
 			"code": "vegetable-base",
@@ -365,7 +365,7 @@
 				{ "type": "item", "code": "expandedfoods:cookedchoppedmushroom-violetwebcap-*",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "group3"]},
 				{ "type": "item", "code": "expandedfoods:cookedchoppedmushroom-whiteoyster-*",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "group7"]},
 				{ "type": "item", "code": "expandedfoods:cookedchoppedmushroom-witchhat-*",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "group7"]},
-				{ "type": "item", "code": "expandedfoods:driedseaweed-edible",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "group10"]},
+				{ "type": "item", "code": "expandedfoods:driedseaweed-edible",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "group10"]}
             ],
 			"minQuantity": 0,
 			"maxQuantity": 1,
@@ -638,7 +638,7 @@
 				{ "type": "item", "code": "expandedfoods:fruitsyrupportion-pear",  "shapeElement": "bowl/topping/*", "textureMapping": ["topping", "pearsyrup"] }, 
 				{ "type": "item", "code": "expandedfoods:fruitsyrupportion-pomegranate",  "shapeElement": "bowl/topping/*", "textureMapping": ["topping", "pomegranatesyrup"] },
                 { "type": "item", "code": "expandedfoods:peanutliquid-sauce",  "shapeElement": "bowl/topping/*", "textureMapping": ["topping", "peanutsauce"] },
-				{ "type": "item", "code": "cottagecheeseportion",  "shapeElement": "bowl/cheese1/*", "textureMapping": ["cheesebase", "cottagecheesemelt"]  },
+				{ "type": "item", "code": "game:cottagecheeseportion",  "shapeElement": "bowl/cheese1/*", "textureMapping": ["cheesebase", "cottagecheesemelt"]  },
                 { "type": "item", "code": "expandedfoods:dressing-basic",  "shapeElement": "bowl/topping/*", "textureMapping": ["topping", "basicdressing"] },
                 { "type": "item", "code": "expandedfoods:dressing-salad",  "shapeElement": "bowl/topping/*", "textureMapping": ["topping", "saladdressing"] },
                 { "type": "item", "code": "expandedfoods:dressing-savory",  "shapeElement": "bowl/topping/*", "textureMapping": ["topping", "savorydressing"] },
@@ -653,8 +653,8 @@
 		{
 			"code": "cheese-extra1", 
 			"validStacks": [ 
-				{ "type": "item", "code": "cheese-cheddar-1slice",  "shapeElement": "bowl/cheese1/*", "textureMapping": ["cheesebase", "cheese-cheddar-1slice"] },
-				{ "type": "item", "code": "cheese-blue-1slice",  "shapeElement": "bowl/cheese1/*", "textureMapping": ["cheesebase", "cheese-blue-1slice"]  }
+				{ "type": "item", "code": "game:cheese-cheddar-1slice",  "shapeElement": "bowl/cheese1/*", "textureMapping": ["cheesebase", "cheese-cheddar-1slice"] },
+				{ "type": "item", "code": "game:cheese-blue-1slice",  "shapeElement": "bowl/cheese1/*", "textureMapping": ["cheesebase", "cheese-blue-1slice"]  }
 			],
 			"minQuantity": 0,
 			"maxQuantity": 1,
@@ -663,8 +663,8 @@
 		{
 			"code": "cheese-extra2", 
 			"validStacks": [ 
-				{ "type": "item", "code": "cheese-cheddar-1slice",  "shapeElement": "bowl/cheese2/*", "textureMapping": ["cheesebase", "cheese-cheddar-1slice"]  },
-				{ "type": "item", "code": "cheese-blue-1slice",  "shapeElement": "bowl/cheese2/*", "textureMapping": ["cheesebase", "cheese-blue-1slice"]  }
+				{ "type": "item", "code": "game:cheese-cheddar-1slice",  "shapeElement": "bowl/cheese2/*", "textureMapping": ["cheesebase", "cheese-cheddar-1slice"]  },
+				{ "type": "item", "code": "game:cheese-blue-1slice",  "shapeElement": "bowl/cheese2/*", "textureMapping": ["cheesebase", "cheese-blue-1slice"]  }
 			],
 			"minQuantity": 0,
 			"maxQuantity": 1,
@@ -674,9 +674,9 @@
 			"code": "breadcrumbs-extra", 
 			"validStacks": [ 
 				{ "type": "item", "code": "expandedfoods:breadcrumbs-*"},
-				{ "type": "item", "code": "grain-flax"},
-				{ "type": "item", "code": "grain-rice"},
-				{ "type": "item", "code": "grain-sunflower"}
+				{ "type": "item", "code": "game:grain-flax"},
+				{ "type": "item", "code": "game:grain-rice"},
+				{ "type": "item", "code": "game:grain-sunflower"}
 			],
 			"minQuantity": 0,
 			"maxQuantity": 1,
@@ -1008,7 +1008,7 @@
     	},
 		{
 			"code": "salt", 
-			"validStacks": [ { "type": "item", "code": "salt"}],
+			"validStacks": [ { "type": "item", "code": "game:salt"}],
 			"minQuantity": 0,
 			"maxQuantity": 1,
             "typeName": "salt"

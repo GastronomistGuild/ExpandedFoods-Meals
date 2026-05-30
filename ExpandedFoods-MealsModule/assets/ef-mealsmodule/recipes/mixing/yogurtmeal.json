@@ -6,7 +6,7 @@
 		"transitionRatio": 1,
 		"transitionedStack": { "type": "item", "code": "game:rot" }
 	},
-	"shape": { "base": "block/meal/yogurt" },
+	"shape": { "base": "ef-mealsmodule:block/meal/yogurt" },
 	"ingredients": [
 		{
 			"code": "yogurt-base",

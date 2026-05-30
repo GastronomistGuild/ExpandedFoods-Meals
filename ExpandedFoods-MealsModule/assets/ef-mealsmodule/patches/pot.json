@@ -1,0 +1,751 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-birch",
+    "value": [ "topping", "gelatinbirch" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinbirch",
+    "value": { "base": "game:item/gelatin/birch" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-blackcurrant",
+    "value": [ "topping", "gelatinblackcurrant" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinblackcurrant",
+    "value": { "base": "game:item/gelatin/blackcurrant" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-blueberry",
+    "value": [ "topping", "gelatinblueberry" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinblueberry",
+    "value": { "base": "game:item/gelatin/blueberry" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-cranberry",
+    "value": [ "topping", "gelatincranberry" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatincranberry",
+    "value": { "base": "game:item/gelatin/cranberry" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-honey",
+    "value": [ "topping", "gelatinhoney" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinhoney",
+    "value": { "base": "game:item/gelatin/honey" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-maple",
+    "value": [ "topping", "gelatinmaple" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinmaple",
+    "value": { "base": "game:item/gelatin/maple" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-plain",
+    "value": [ "topping", "gelatinplain" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinplain",
+    "value": { "base": "game:item/gelatin/plain" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-redcurrant",
+    "value": [ "topping", "gelatinredcurrant" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinredcurrant",
+    "value": { "base": "game:item/gelatin/redcurrant" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-saguaro",
+    "value": [ "topping", "gelatinsaguaro" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinsaguaro",
+    "value": { "base": "game:item/gelatin/saguaro" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-whitecurrant",
+    "value": [ "topping", "gelatinwhitecurrant" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinwhitecurrant",
+    "value": { "base": "game:item/gelatin/whitecurrant" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-pineapple",
+    "value": [ "topping", "gelatinpineapple" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinpineapple",
+    "value": { "base": "game:item/gelatin/pineapple" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-apple",
+    "value": [ "topping", "gelatinapple" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinapple",
+    "value": { "base": "game:item/gelatin/apple" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-breadfruit",
+    "value": [ "topping", "gelatinbreadfruit" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinbreadfruit",
+    "value": { "base": "game:item/gelatin/breadfruit" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-cherry",
+    "value": [ "topping", "gelatincherry" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatincherry",
+    "value": { "base": "game:item/gelatin/cherry" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-lychee",
+    "value": [ "topping", "gelatinlychee" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinlychee",
+    "value": { "base": "game:item/gelatin/lychee" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-mango",
+    "value": [ "topping", "gelatinmango" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinmango",
+    "value": { "base": "game:item/gelatin/mango" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-orange",
+    "value": [ "topping", "gelatinorange" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinorange",
+    "value": { "base": "game:item/gelatin/orange" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-peach",
+    "value": [ "topping", "gelatinpeach" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinpeach",
+    "value": { "base": "game:item/gelatin/peach" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-pear",
+    "value": [ "topping", "gelatinpear" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinpear",
+    "value": { "base": "game:item/gelatin/pear" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:gelatin-pomegranate",
+    "value": [ "topping", "gelatinpomegranate" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gelatinpomegranate",
+    "value": { "base": "game:item/gelatin/pomegranate" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:yogurt-plain",
+    "value": [ "liquid", "yogurtplain" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtplain",
+    "value": { "base": "game:item/liquid/yogurt/plain" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtbirch",
+    "value": { "base": "game:item/liquid/yogurt/birch" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtblackcurrant",
+    "value": { "base": "game:item/liquid/yogurt/blackcurrant" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtblueberry",
+    "value": { "base": "game:item/liquid/yogurt/blueberry" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtcranberry",
+    "value": { "base": "game:item/liquid/yogurt/cranberry" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurthoney",
+    "value": { "base": "game:item/liquid/yogurt/honey" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtmaple",
+    "value": { "base": "game:item/liquid/yogurt/maple" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtredcurrant",
+    "value": { "base": "game:item/liquid/yogurt/redcurrant" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtsaguaro",
+    "value": { "base": "game:item/liquid/yogurt/saguaro" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtwhitecurrant",
+    "value": { "base": "game:item/liquid/yogurt/whitecurrant" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtpineapple",
+    "value": { "base": "game:item/liquid/yogurt/pineapple" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtapple",
+    "value": { "base": "game:item/liquid/yogurt/apple" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtcherry",
+    "value": { "base": "game:item/liquid/yogurt/cherry" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtpeach",
+    "value": { "base": "game:item/liquid/yogurt/peach" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtpear",
+    "value": { "base": "game:item/liquid/yogurt/pear" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtorange",
+    "value": { "base": "game:item/liquid/yogurt/orange" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtmango",
+    "value": { "base": "game:item/liquid/yogurt/mango" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtbreadfruit",
+    "value": { "base": "game:item/liquid/yogurt/breadfruit" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtlychee",
+    "value": { "base": "game:item/liquid/yogurt/lychee" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/yogurtpomegranate",
+    "value": { "base": "game:item/liquid/yogurt/pomegranate" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:pasta-cut",
+    "value": [ "pasta", "pasta" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/pasta",
+    "value": { "base": "ef-mealsmodule:block/food/meal/pasta" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/riceandbeans",
+    "value": { "base": "ef-mealsmodule:block/food/meal/riceandbeans" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:dressing-basic",
+    "value": [ "topping", "basicdressing" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/basicdressing",
+    "value": { "base": "expandedfoods:item/liquid/dressing/basic" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:dressing-salad",
+    "value": [ "topping", "saladdressing" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/saladdressing",
+    "value": { "base": "expandedfoods:item/liquid/dressing/salad" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:dressing-sweet",
+    "value": [ "topping", "sweetdressing" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/sweetdressing",
+    "value": { "base": "expandedfoods:item/liquid/dressing/sweet" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:dressing-savory",
+    "value": [ "topping", "savorydressing" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/savorydressing",
+    "value": { "base": "expandedfoods:item/liquid/dressing/savory" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:dressing-deluxe",
+    "value": [ "topping", "deluxedressing" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/deluxedressing",
+    "value": { "base": "expandedfoods:item/liquid/dressing/deluxe" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/daisy",
+    "value": { "base": "game:block/plant/flower/petal/wilddaisy1" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-acorn",
+    "value": { "base": "expandedfoods:item/food/grain/breading/acorn-cooked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-acorn-partbaked",
+    "value": { "base": "expandedfoods:item/food/grain/breading/acorn-partbaked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-acorn-charred",
+    "value": { "base": "expandedfoods:item/food/grain/breading/acorn-charred" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-acorn-syrup",
+    "value": { "base": "expandedfoods:item/food/grain/breading/acorn-fish" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-flax-partbaked",
+    "value": { "base": "expandedfoods:item/food/grain/breading/flax-partbaked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-flax",
+    "value": { "base": "expandedfoods:item/food/grain/breading/flax-cooked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-flax-charred",
+    "value": { "base": "expandedfoods:item/food/grain/breading/flax-charred" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-flax-syrup",
+    "value": { "base": "expandedfoods:item/food/grain/breading/flax-fish" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-rice-partbaked",
+    "value": { "base": "expandedfoods:item/food/grain/breading/rice-partbaked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-rice",
+    "value": { "base": "expandedfoods:item/food/grain/breading/rice-cooked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-rice-charred",
+    "value": { "base": "expandedfoods:item/food/grain/breading/rice-charred" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-rice-syrup",
+    "value": { "base": "expandedfoods:item/food/grain/breading/rice-fish" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-rye-partbaked",
+    "value": { "base": "expandedfoods:item/food/grain/breading/rye-partbaked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-rye",
+    "value": { "base": "expandedfoods:item/food/grain/breading/rye-cooked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-rye-charred",
+    "value": { "base": "expandedfoods:item/food/grain/breading/rye-charred" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-rye-syrup",
+    "value": { "base": "expandedfoods:item/food/grain/breading/rye-fish" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-spelt-partbaked",
+    "value": { "base": "expandedfoods:item/food/grain/breading/spelt-partbaked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-spelt",
+    "value": { "base": "expandedfoods:item/food/grain/breading/spelt-cooked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-spelt-charred",
+    "value": { "base": "expandedfoods:item/food/grain/breading/spelt-charred" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-spelt-syrup",
+    "value": { "base": "expandedfoods:item/food/grain/breading/spelt-fish" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-cassava-partbaked",
+    "value": { "base": "expandedfoods:item/food/grain/breading/cassava-partbaked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-cassava",
+    "value": { "base": "expandedfoods:item/food/grain/breading/cassava-cooked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-cassava-charred",
+    "value": { "base": "expandedfoods:item/food/grain/breading/cassava-charred" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-cassava-syrup",
+    "value": { "base": "expandedfoods:item/food/grain/breading/cassava-fish" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-amaranth-partbaked",
+    "value": { "base": "expandedfoods:item/food/grain/breading/amaranth-partbaked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-amaranth",
+    "value": { "base": "expandedfoods:item/food/grain/breading/amaranth-cooked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-amaranth-charred",
+    "value": { "base": "expandedfoods:item/food/grain/breading/amaranth-charred" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-amaranth-syrup",
+    "value": { "base": "expandedfoods:item/food/grain/breading/amaranth-fish" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-sunflower-partbaked",
+    "value": { "base": "expandedfoods:item/food/grain/breading/sunflower-partbaked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-sunflower",
+    "value": { "base": "expandedfoods:item/food/grain/breading/sunflower-cooked" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-sunflower-charred",
+    "value": { "base": "expandedfoods:item/food/grain/breading/sunflower-charred" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/breading-sunflower-syrup",
+    "value": { "base": "expandedfoods:item/food/grain/breading/sunflower-fish" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  }
+]

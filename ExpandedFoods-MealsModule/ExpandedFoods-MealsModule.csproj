@@ -25,6 +25,9 @@
         <None Update="**\*.tt">
             <Generator>TextTemplatingFileGenerator</Generator>
         </None>
+        <None Update="assets\ef-mealsmodule\textures\block\food\meal\pasta.png">
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
     </ItemGroup>
     
     
@@ -61,6 +64,10 @@
         <Content Include="modicon.png" Condition="Exists('modicon.png')">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="assets\ef-mealsmodule\shapes\block\" />
     </ItemGroup>
 
 </Project>
