@@ -6,7 +6,7 @@
 		"transitionRatio": 1,
 		"transitionedStack": { "type": "item", "code": "rot" }
 	},
-	"shape": { "base": "ef-mealsmodule:block/meal/pastahot" },
+	"shape": { "base": "efmealsmodule:block/meal/pastahot" },
 	"ingredients": [
 		{
 			"code": "pasta-base", 

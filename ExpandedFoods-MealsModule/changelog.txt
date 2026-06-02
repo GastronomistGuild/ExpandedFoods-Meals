@@ -1,2 +1,5 @@
-﻿1.0.0-dev.1
+﻿~1.0.0-dev.2
+- Some shapes were still pointing at the old ef-mealsmodule domain, not the actual efmealsmodule domain. Oops!
+
+~1.0.0-dev.1
 BEWARE, I LIVE!!!! RUN! RUN! RUN! BEWARE COWARD! RUN COWARD! I HUNGER

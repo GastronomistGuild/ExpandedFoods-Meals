@@ -4,6 +4,6 @@
     "name": "Expanded Foods: Meals",
     "authors": ["l33tmaan"],
     "description": "BIG MEALS FOR BIG EATERS!!! ",
-    "version": "1.0.0-dev.1",
+    "version": "1.0.0-dev.2",
     "dependencies": {"expandedfoods": "2.0.0-dev.9"}
 }
