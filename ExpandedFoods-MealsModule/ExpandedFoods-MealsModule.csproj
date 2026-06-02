@@ -16,6 +16,9 @@
         <None Update="**\*.json">
             <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </None>
+        <None Update="**\changelog.txt">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
         <None Update="**\*.png">
             <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </None>
@@ -67,7 +70,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="assets\ef-mealsmodule\shapes\block\" />
+      <Folder Include="assets\efmealsmodule\shapes\block\" />
     </ItemGroup>
 
 </Project>
