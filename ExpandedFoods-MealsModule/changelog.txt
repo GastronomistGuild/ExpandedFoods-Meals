@@ -1,4 +1,7 @@
-﻿~1.0.0-dev.3
+﻿~1.0.0-dev.4
+- Extra compatibility recipes ported from EF to here
+
+~1.0.0-dev.3
 - Mod domain changed from 'efmealsmodule' to 'expandedfoods' to help with compatibility
 
 ~1.0.0-dev.2
