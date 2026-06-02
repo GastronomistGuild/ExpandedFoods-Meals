@@ -1,4 +1,7 @@
-﻿~1.0.0-dev.2
+﻿~1.0.0-dev.3
+- Mod domain changed from 'efmealsmodule' to 'expandedfoods' to help with compatibility
+
+~1.0.0-dev.2
 - Some shapes were still pointing at the old ef-mealsmodule domain, not the actual efmealsmodule domain. Oops!
 
 ~1.0.0-dev.1

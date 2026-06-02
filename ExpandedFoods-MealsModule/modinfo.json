@@ -3,7 +3,7 @@
     "modid": "efmealsmodule",
     "name": "Expanded Foods: Meals",
     "authors": ["l33tmaan"],
-    "description": "BIG MEALS FOR BIG EATERS!!! ",
-    "version": "1.0.0-dev.2",
+    "description": "BIG MEALS FOR BIG EATERS!!!",
+    "version": "1.0.0-dev.3",
     "dependencies": {"expandedfoods": "2.0.0-dev.9"}
 }

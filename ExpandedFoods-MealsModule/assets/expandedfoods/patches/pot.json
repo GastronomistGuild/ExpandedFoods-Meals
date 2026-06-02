@@ -646,14 +646,14 @@
   {
     "op": "addmerge",
     "path": "/textures/pasta",
-    "value": { "base": "efmealsmodule:block/food/meal/pasta" },
+    "value": { "base": "expandedfoods:block/food/meal/pasta" },
     "side": "server",
     "file": "game:blocktypes/clay/fired/pot.json"
   },
   {
     "op": "addmerge",
     "path": "/textures/riceandbeans",
-    "value": { "base": "efmealsmodule:block/food/meal/riceandbeans" },
+    "value": { "base": "expandedfoods:block/food/meal/riceandbeans" },
     "side": "server",
     "file": "game:blocktypes/clay/fired/pot.json"
   },

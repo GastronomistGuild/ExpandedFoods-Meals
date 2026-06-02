@@ -70,7 +70,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="assets\efmealsmodule\shapes\block\" />
+      <Folder Include="assets\expandedfoods\shapes\block\" />
     </ItemGroup>
 
 </Project>
