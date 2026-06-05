@@ -1,4 +1,8 @@
-﻿~1.0.0-dev.4
+﻿~1.0.0-dev.5
+- Meal lang files fixed
+- Russian translation added (thanks to ChimMAG!) - DONE!!!
+
+~1.0.0-dev.4
 - Extra compatibility recipes ported from EF to here
 
 ~1.0.0-dev.3
