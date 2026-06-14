@@ -1,0 +1,52 @@
+{
+
+  "game:meal-normal-augratin": "{1} Au Gratin",
+  "game:meal-normal-compote": "Kompot {1}",
+  "game:meal-normal-meatysalad": "Sałatka",
+  "game:meal-normal-pastacold": "Sałatka makaronowa",
+  "game:meal-normal-pastahot": "Makaron {1}",
+  "game:meal-normal-riceandbeans": "Ryż po pilawsku {1}",
+  "game:meal-normal-yogurtmeal": "Jogurt",
+
+  "game:meal-hearty-augratin": "sycący {1} au gratin",
+  "game:meal-hearty-compote": "sycący kompot {1}",
+  "game:meal-hearty-pastahot": "sycący {0} makaron {1}",
+  "game:meal-hearty-riceandbeans": "sycący {0} ryż po pilawsku {1}",
+
+  "game:meal-hefty-augratin": "gęsty {0} au gratin {1}",
+  "game:meal-hefty-compote": "gęsty {0} kompot {1}",
+  "game:meal-hefty-pastahot": "gęsty {0} makaron {1}",
+  "game:meal-hefty-riceandbeans": "gęsty {0} ryż po pilawsku {1}",
+
+  "game:mealrecipe-name-augratin": "Au Gratin",
+  "game:mealrecipe-name-compote": "Kompot",
+  "game:mealrecipe-name-meatysalad": "Sałatka",
+  "game:mealrecipe-name-pastacold": "Sałatka makaronowa",
+  "game:mealrecipe-name-pastahot": "Makaron",
+  "game:mealrecipe-name-riceandbeans": "Ryż po pilawsku",
+  "game:mealrecipe-name-yogurtmeal": "Jogurt",
+
+  "game:mealrecipe-name-augratin-in-container": "au gratin",
+  "game:mealrecipe-name-compote-in-container": "kompot",
+  "game:mealrecipe-name-meatysalad-in-container": "sałatka",
+  "game:mealrecipe-name-pastacold-in-container": "sałatka makaronowa",
+  "game:mealrecipe-name-pastahot-in-container": "makaron",
+  "game:mealrecipe-name-riceandbeans-in-container": "ryż po pilawsku",
+  "game:mealrecipe-name-yogurtmeal-in-container": "jagurt",
+
+  "game:handbook-mealrecipe-directionstext-augratin": "1. Umieść garnek na ogniu i przygotuj składniki. Użyj zwykłej miski do odmierzania płynów.<br>2. Rozdziel wszystkie składniki po równo. Wciśnij <hk>leftmouse</hk> trzymając miskę z płynem aby umieścić zawartość w slocie garnka lub <hk>rightmouse</hk> aby przenieść płyn z powrotem do miski.<br>3. Rozpal ogień i przygotuj pustą miskę lub wek aby nabrać Au Gratin z garnka gdy będzie gotowe.",
+  "game:handbook-mealrecipe-directionstext-compote":  "1. Umieść garnek na ogniu i przygotuj składniki. Użyj zwykłej miski do odmierzania płynów.<br>2. Rozdziel wszystkie składniki po równo. Wciśnij <hk>leftmouse</hk> trzymając miskę z płynem aby umieścić zawartość w slocie garnka lub <hk>rightmouse</hk> aby przenieść płyn z powrotem do miski.<br>3. Rozpal ogień i przygotuj pustą miskę lub wek aby nabrać kompotu z garnka gdy będzie gotowy.",
+  "game:handbook-mealrecipe-directionstext-meatysalad": "1. Umieść garnek w lewym dolnym rogu <strong><a href=\"handbook://block-aculinaryartillery:mixingbowl-blue\">miski do mieszania</a></strong>. Użyj zwykłej miski do odmierzania płynów.<br>2. Rozdziel wszystkie składniki po równo. Wciśnij <hk>leftmouse</hk> trzymając miskę z płynem aby umieścić zawartość w slocie garnka lub <hk>rightmouse</hk> aby przenieść płyn z powrotem do miski. Przytrzymaj <hk>rightmouse</hk> lub zasil miskę do mieszania aby zacząć przygotowywać posiłek. Gdy będzie gotowy wyjmij garnek z prawego dolnego slotu i postaw go w pobliżu.<br>4. Użyj pustej miski lub weka aby nabrać sałatki z garnka.",
+  "game:handbook-mealrecipe-directionstext-pastacold":  "1. Umieść garnek w lewym dolnym rogu <strong><a href=\"handbook://block-aculinaryartillery:mixingbowl-blue\">miski do mieszania</a></strong>. Użyj zwykłej miski do odmierzania płynów.<br>2. Rozdziel wszystkie składniki po równo. Wciśnij <hk>leftmouse</hk> trzymając miskę z płynem aby umieścić zawartość w slocie garnka lub <hk>rightmouse</hk> aby przenieść płyn z powrotem do miski. Przytrzymaj <hk>rightmouse</hk> lub zasil miskę do mieszania aby zacząć przygotowywać posiłek. Gdy będzie gotowy wyjmij garnek z prawego dolnego slotu i postaw go w pobliżu.<br>4. Użyj pustej miski lub weka aby nabrać sałatki makaronowej z garnka.",
+  "game:handbook-mealrecipe-directionstext-pastahot":     "1. Umieść garnek na ogniu i przygotuj składniki. Użyj zwykłej miski do odmierzania płynów.<br>2. Rozdziel wszystkie składniki po równo. Wciśnij <hk>leftmouse</hk> trzymając miskę z płynem aby umieścić zawartość w slocie garnka lub <hk>rightmouse</hk> aby przenieść płyn z powrotem do miski.<br>3. Rozpal ogień i przygotuj pustą miskę lub wek aby nabrać makaronu z garnka gdy będzie gotowy.",
+  "game:handbook-mealrecipe-directionstext-riceandbeans": "1. Umieść garnek na ogniu i przygotuj składniki. Użyj zwykłej miski do odmierzania płynów.<br>2. Rozdziel wszystkie składniki po równo. Wciśnij <hk>leftmouse</hk> trzymając miskę z płynem aby umieścić zawartość w slocie garnka lub <hk>rightmouse</hk> aby przenieść płyn z powrotem do miski.<br>3. Rozpal ogień i przygotuj pustą miskę lub wek aby nabrać ryżu z garnka gdy będzie gotowy. ",
+  "game:handbook-mealrecipe-directionstext-yogurtmeal": "1. Umieść garnek w lewym dolnym rogu <strong><a href=\"handbook://block-aculinaryartillery:mixingbowl-blue\">miski do mieszania</a></strong>. Użyj zwykłej miski do odmierzania płynów.<br>2. Rozdziel wszystkie składniki po równo. Wciśnij <hk>leftmouse</hk> trzymając miskę z płynem aby umieścić zawartość w slocie garnka lub <hk>rightmouse</hk> aby przenieść płyn z powrotem do miski. Przytrzymaj <hk>rightmouse</hk> lub zasil miskę do mieszania aby zacząć przygotowywać posiłek. Gdy posiłek będzie gotowy wyjmij garnek z prawego dolnego slotu i postaw go w pobliżu.<br>4. Użyj pustej miski lub weka aby nabrać jogurtu z garnka.",
+
+  "game:handbook-mealrecipe-notestext-augratin": "Przeważnie podawane z warzywami lub owocami morza. Kremowy serowy sos tworzy skarmelizowaną powłokę dodającą daniu chrupiąco-prażonego posmaku. Bez dodatków serowe danie przypomina fondue.",
+  "game:handbook-mealrecipe-notestext-compote": "Słodki ciepły deser robiony z owoców gotowanych w cukrowym syropie lub alkoholu. Można podawać na zimno.",
+  "game:handbook-mealrecipe-notestext-meatysalad": "Mieszanka surowych warzyw i innych rodzai jedzenia. Sałatkę może zrobić z aż 6 różnych składników w przeciwieństwie do 4 możliwych do dodania w garnku. Może się jednak szybciej psuć, więc zjedz ją szybko!<br>Ważna uwaga: Zanim mięso będzie się nadawało jako składnik sałatki musi najpierw zostać ugotowane lub uwędzone. Nikt nie chce się rozchorować!",
+  "game:handbook-mealrecipe-notestext-pastacold": "Warzywa, mięso lub orzechy połączone z ugotowanym wcześniej makaronem tworzą świeże danie pełne smaku. Sałatkę może zrobić z aż 6 różnych składników w przeciwieństwie do 4 możliwych do dodania w garnku.",
+  "game:handbook-mealrecipe-notestext-pastahot": "1,000 form makaronu, a to jest zaledwie jedna z nich.<br>1,000,000 odmian dań z makaronem, a wszystkie łączy miłość.<br>1,000,000,000 żołądków do nakarmienia, a wszystkie śpiewają jednym chórem.<br><br>Ważna uwaga: Gorący gotowany makaron psuje się wolniej niż zimny makaron w sałatce ponieważ wszystkie składniki gotują się w tym samym czasie.",
+  "game:handbook-mealrecipe-notestext-riceandbeans": "Podstawą dania jest ryż gotowany w bulionie z innymi składnikami. Te danie ma tyle nazw ile jest w nim ziarenek ryżu.",
+  "game:handbook-mealrecipe-notestext-yogurtmeal": "Zdrowa przekąska wzbogacona dodatkiem świeżych owoców lub orzechów oraz zwieńczona syropem lub żelatyną. Jogurt może zawierać aż 6 różnych składników w przeciwieństwie do 4 możliwych do dodania w garnku."
+}
