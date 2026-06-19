@@ -1,0 +1,51 @@
+{
+  "game:meal-normal-augratin": "{1}焗烤菜",
+  "game:meal-normal-compote": "{1}水果蜜饯",
+  "game:meal-normal-meatysalad": "沙拉",
+  "game:meal-normal-pastacold": "冷面",
+  "game:meal-normal-pastahot": "{1}热面",
+  "game:meal-normal-riceandbeans": "{1}抓饭",
+  "game:meal-normal-yogurtmeal": "酸奶餐",
+
+  "game:meal-hearty-augratin": "丰盛{1}焗烤菜",
+  "game:meal-hearty-compote": "丰盛{1}水果蜜饯",
+  "game:meal-hearty-pastahot": "丰盛{0}{1}热面",
+  "game:meal-hearty-riceandbeans": "丰盛{0}{1}抓饭",
+
+  "game:meal-hefty-augratin": "厚重{0}{1}焗烤菜",
+  "game:meal-hefty-compote": "厚重{0}{1}水果蜜饯",
+  "game:meal-hefty-pastahot": "厚重{0}{1}热面",
+  "game:meal-hefty-riceandbeans": "厚重{0}{1}抓饭",
+
+  "game:mealrecipe-name-augratin": "焗烤菜",
+  "game:mealrecipe-name-compote": "水果蜜饯",
+  "game:mealrecipe-name-meatysalad": "沙拉",
+  "game:mealrecipe-name-pastacold": "冷面",
+  "game:mealrecipe-name-pastahot": "热面",
+  "game:mealrecipe-name-riceandbeans": "抓饭",
+  "game:mealrecipe-name-yogurtmeal": "酸奶餐",
+
+  "game:mealrecipe-name-augratin-in-container": "焗烤菜",
+  "game:mealrecipe-name-compote-in-container": "水果蜜饯",
+  "game:mealrecipe-name-meatysalad-in-container": "沙拉",
+  "game:mealrecipe-name-pastacold-in-container": "冷面",
+  "game:mealrecipe-name-pastahot-in-container": "热面",
+  "game:mealrecipe-name-riceandbeans-in-container": "抓饭",
+  "game:mealrecipe-name-yogurtmeal-in-container": "酸奶",
+
+  "game:handbook-mealrecipe-directionstext-augratin": "1. 把锅放在篝火上，收集好食材。确保液体放在碗里。<br>2. 按堆叠数量将食材平均分到锅中。对于液体，<hk>左键</hk>点击将液体从碗中倒出，或使用碗<hk>右键</hk>点击将其装回。<br>3. 点燃篝火，准备好碗或陶罐，以便在焗烤菜做好后舀出。",
+  "game:handbook-mealrecipe-directionstext-compote": "1. 把锅放在篝火上，收集好食材。确保液体放在碗里。<br>2. 按堆叠数量将食材平均分到锅中。对于液体，<hk>左键</hk>点击将液体从碗中倒出，或使用碗<hk>右键</hk>点击将其装回。<br>3. 点燃篝火，准备好碗或陶罐，以便在水果蜜饯做好后舀出。",
+  "game:handbook-mealrecipe-directionstext-meatysalad": "1. 把锅放入搅拌碗的左下角槽位。确保液体放在碗里。<br>2. 按堆叠数量将食材平均分到锅中。对于液体，<hk>左键</hk>点击将液体从碗中倒出，或使用碗<hk>右键</hk>点击将其装回。<br>3. 按住<hk>右键</hk>或为搅拌碗提供动力，直到餐食混合完成，然后将其从搅拌碗的右下角槽位移出并放在旁边。<br>4. 使用碗或陶罐舀出沙拉。",
+  "game:handbook-mealrecipe-directionstext-pastacold": "1. 把锅放入搅拌碗的左下角槽位。确保液体放在碗里。<br>2. 按堆叠数量将食材平均分到锅中。对于液体，<hk>左键</hk>点击将液体从碗中倒出，或使用碗<hk>右键</hk>点击将其装回。<br>3. 按住<hk>右键</hk>或为搅拌碗提供动力，直到餐食混合完成，然后将其从搅拌碗的右下角槽位移出并放在旁边。<br>4. 使用碗或陶罐舀出冷面。",
+  "game:handbook-mealrecipe-directionstext-pastahot": "1. 把锅放在篝火上，收集好食材。确保液体放在碗里。<br>2. 按堆叠数量将食材平均分到锅中。对于液体，<hk>左键</hk>点击将液体从碗中倒出，或使用碗<hk>右键</hk>点击将其装回。<br>3. 点燃篝火，准备好碗或陶罐，以便在热面做好后舀出。",
+  "game:handbook-mealrecipe-directionstext-riceandbeans": "1. 把锅放在篝火上，收集好食材。确保液体放在碗里。<br>2. 按堆叠数量将食材平均分到锅中。对于液体，<hk>左键</hk>点击将液体从碗中倒出，或使用碗<hk>右键</hk>点击将其装回。<br>3. 点燃篝火，准备好碗或陶罐，以便在抓饭做好后舀出。",
+  "game:handbook-mealrecipe-directionstext-yogurtmeal": "1. 把锅放入搅拌碗的左下角槽位。确保液体放在碗里。<br>2. 按堆叠数量将食材平均分到锅中。对于液体，<hk>左键</hk>点击将液体从碗中倒出，或使用碗<hk>右键</hk>点击将其装回。<br>3. 按住<hk>右键</hk>或为搅拌碗提供动力，直到餐食混合完成，然后将其从搅拌碗的右下角槽位移出并放在旁边。<br>4. 使用碗或陶罐舀出酸奶。",
+
+  "game:handbook-mealrecipe-notestext-augratin": "通常与蔬菜或海鲜混合，奶油芝士酱会硬化成焦黄的外壳，为餐食增添酥脆的烤香味。单独烹饪时，芝士酱类似于奶酪火锅。",
+  "game:handbook-mealrecipe-notestext-compote": "一种温热、甜美的甜点，由水果在糖浆中烹制而成，偶尔加入葡萄酒。也可以冷藏后食用。",
+  "game:handbook-mealrecipe-notestext-meatysalad": "一种由蔬菜和其他食物组成的生食混合物，沙拉最多可容纳6种不同的食材，而烹饪锅只能容纳4种。但它们的保质期不长。尽快食用！<br>注意：添加到沙拉中的任何肉类必须先腌或煮熟。我们可不想生病！",
+  "game:handbook-mealrecipe-notestext-pastacold": "也称为“意面沙拉”，多种食材与预煮熟的面条混合，制成新鲜美味的餐食。冷面餐最多可容纳6种不同的食材，而烹饪锅只能容纳4种。",
+  "game:handbook-mealrecipe-notestext-pastahot": "在一千种面条形态中，这只是其中之一。<br>在一百万种面食变体中，所有的都因爱而团结。<br>在十亿张要喂饱的嘴中，一曲合唱由此诞生。<br><br>注意：热面比冷面保存时间更长，因为所有食材都是一起烹饪的。",
+  "game:handbook-mealrecipe-notestext-riceandbeans": "主要由米饭制成，用高汤或肉汤与其他食材一起烹饪，这道菜的名字和它的米粒一样多。",
+  "game:handbook-mealrecipe-notestext-yogurtmeal": "本身就是一种健康的零食，加入更多新鲜水果和坚果后更加美味，再淋上糖浆或果冻。酸奶餐最多可容纳6种不同的食材，而烹饪锅只能容纳4种。"
+}
