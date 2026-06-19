@@ -2,6 +2,8 @@
 - Meal text updated to be more like vanilla (mealRecipeByGroup used)
 - Primitive survival meat patches corrected for meals (cold pasta specifically)
 - Compote buffed; requires more ingredients
+- Dehydrated fruits removed from recipes to prepare for upcoming removal - DONE!!!
+- Simplified Chinese translation added (thanks to Aimli!) - DONE!!!
 
 ~1.0.0-dev.5
 - Russian translation added (thanks to ChimMAG!)
