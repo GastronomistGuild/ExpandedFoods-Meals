@@ -1,7 +1,7 @@
 ﻿[
   {
     "op": "addeach",
-    "path": "/ingredients/4/validStacks/-",
+    "path": "/ingredients/5/validStacks/-",
     "value": [
         { "type": "item", "code": "expandedfoods:sausagecrab-normal-partbaked", "shapeElement": "bowl/meatnugget 1/*",
             "textureMapping": [ "meatnugget", "crabmeat" ]
@@ -283,7 +283,7 @@
   },
   {
     "op": "addeach",
-    "path": "/ingredients/8/validStacks/-",
+    "path": "/ingredients/6/validStacks/-",
     "value": [
         {
             "type": "item",
