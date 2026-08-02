@@ -30,7 +30,7 @@
       { "type": "item", "code": "primitivesurvival:curedsmokedmeat-bushmeat-raw",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "group7"] },
       { "type": "item", "code": "primitivesurvival:curedsmokedmeat-poultry-raw",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "group3"] }
     ], 
-    "file": "efmealsmodule:recipes/cooking/augratin.json",
+    "file": "recipes/cooking/augratin.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   },
@@ -65,7 +65,7 @@
       { "type": "item", "code": "primitivesurvival:curedsmokedmeat-bushmeat-raw",  "shapeElement": "bowl/red meat 2/*", "textureMapping": ["meat", "group7"] }, 
       { "type": "item", "code": "primitivesurvival:curedsmokedmeat-poultry-raw",  "shapeElement": "bowl/poultry 2/*", "textureMapping": ["meat", "group3"] } 
     ],
-    "file": "efmealsmodule:recipes/cooking/augratin.json",
+    "file": "recipes/cooking/augratin.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   }

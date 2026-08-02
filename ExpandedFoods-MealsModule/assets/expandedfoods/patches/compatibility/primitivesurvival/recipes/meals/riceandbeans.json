@@ -14,7 +14,7 @@
             "shapeElement": "bowl/null/*"
         }
     ],
-    "file": "efmealsmodule:recipes/cooking/riceandbeans.json",
+    "file": "recipes/cooking/riceandbeans.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   },
@@ -179,7 +179,7 @@
             "textureMapping": [ "meat", "group3" ]
         }
     ],
-    "file": "efmealsmodule:recipes/cooking/riceandbeans.json",
+    "file": "recipes/cooking/riceandbeans.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   },
@@ -344,7 +344,7 @@
             "textureMapping": [ "meat", "group3" ]
         }
     ],
-    "file": "efmealsmodule:recipes/cooking/riceandbeans.json",
+    "file": "recipes/cooking/riceandbeans.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   }

@@ -139,7 +139,7 @@
             "textureMapping": [ "meat", "group3" ]
         }
     ],
-    "file": "efmealsmodule:recipes/mixing/pastacold.json",
+    "file": "recipes/mixing/pastacold.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   },
@@ -232,7 +232,7 @@
             "textureMapping": [ "meat", "group3" ]
         }
     ],
-    "file": "efmealsmodule:recipes/mixing/pastacold.json",
+    "file": "recipes/mixing/pastacold.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   }

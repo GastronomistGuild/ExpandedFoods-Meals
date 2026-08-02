@@ -457,7 +457,7 @@
             "textureMapping": [ "meat", "group3" ]
         }
     ],
-    "file": "efmealsmodule:recipes/mixing/salad.json",
+    "file": "recipes/mixing/salad.json",
     "side": "server",
     "dependsOn": [ { "modid": "primitivesurvival" } ]
   }
