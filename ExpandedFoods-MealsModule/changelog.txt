@@ -7,6 +7,7 @@
 - Dehydrated fruits removed from recipes to prepare for upcoming removal - DONE!!!
 - Simplified Chinese translation added (thanks to Aimli!) - DONE!!!
 - Recipes trimmed down, wildcards used more
+- Polish lang file updated (thanks to Regerett!) - DONE!!!
 
 ~1.0.0-dev.5
 - Russian translation added (thanks to ChimMAG!)
