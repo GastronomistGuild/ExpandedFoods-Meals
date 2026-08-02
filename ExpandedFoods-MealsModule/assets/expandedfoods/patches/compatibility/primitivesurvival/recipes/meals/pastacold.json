@@ -3,173 +3,35 @@
     "op": "addeach",
     "path": "/ingredients/4/validStacks/-",
     "value": [
-        { "type": "item", "code": "expandedfoods:sausagecrab-normal-partbaked", "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-normal-driedpartbaked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-normal-curing",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-normal-cured",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-cheese-partbaked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-cheese-driedpartbaked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-cheese-curing",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-cheese-cured",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-normal-partbaked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-normal-driedpartbaked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-normal-curing",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-normal-cured",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-cheese-partbaked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-cheese-driedpartbaked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-cheese-curing",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-cheese-cured",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-normal-cooked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-normal-driedcooked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-cheese-cooked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-cheese-driedcooked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-normal-cooked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-normal-driedcooked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-cheese-cooked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagesnake-cheese-driedcooked",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "snakemeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-normal-charred",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-normal-driedcharred",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-cheese-charred",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
-            "code": "expandedfoods:sausagecrab-cheese-driedcharred",
-            "shapeElement": "bowl/meatnugget 1/*",
-            "textureMapping": [ "meatnugget", "crabmeat" ]
-        },
-        {
-            "type": "item",
+        { "type": "item", "code": "expandedfoods:sausagecrab-normal-partbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-normal-driedpartbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-normal-curing", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-normal-cured", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-cheese-partbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-cheese-driedpartbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-cheese-curing", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-cheese-cured", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-normal-partbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-normal-driedpartbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-normal-curing", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-normal-cured", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-cheese-partbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-cheese-driedpartbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-cheese-curing", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-cheese-cured", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-normal-cooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-normal-driedcooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-cheese-cooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-cheese-driedcooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-normal-cooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-normal-driedcooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-cheese-cooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagesnake-cheese-driedcooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "snakemeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-normal-charred", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-normal-driedcharred", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-cheese-charred", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item", "code": "expandedfoods:sausagecrab-cheese-driedcharred", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": [ "meatnugget", "crabmeat" ] },
+        { "type": "item",
             "code": "expandedfoods:sausagesnake-normal-charred",
             "shapeElement": "bowl/meatnugget 1/*",
             "textureMapping": [ "meatnugget", "snakemeat" ]
@@ -277,7 +139,7 @@
             "textureMapping": [ "meat", "group3" ]
         }
     ],
-    "file": "recipes/mixing/pastacold.json",
+    "file": "efmealsmodule:recipes/mixing/pastacold.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   },
@@ -370,7 +232,7 @@
             "textureMapping": [ "meat", "group3" ]
         }
     ],
-    "file": "recipes/mixing/pastacold.json",
+    "file": "efmealsmodule:recipes/mixing/pastacold.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   }

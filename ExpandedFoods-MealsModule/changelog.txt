@@ -1,9 +1,12 @@
 ﻿~1.0.0-dev.6
 - Meal text updated to be more like vanilla (mealRecipeByGroup used)
-- Primitive survival meat patches corrected for meals (cold pasta specifically)
+- Primitive survival meat patches corrected for meals - DONE!!!
 - Compote buffed; requires more ingredients
+
+- Expanded meals handbook guide moved from EF Core to EF Meals - DONE!!!
 - Dehydrated fruits removed from recipes to prepare for upcoming removal - DONE!!!
 - Simplified Chinese translation added (thanks to Aimli!) - DONE!!!
+- Recipes trimmed down, wildcards used more
 
 ~1.0.0-dev.5
 - Russian translation added (thanks to ChimMAG!)

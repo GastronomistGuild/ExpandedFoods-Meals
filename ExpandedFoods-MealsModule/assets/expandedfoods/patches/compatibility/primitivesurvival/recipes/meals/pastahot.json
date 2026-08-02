@@ -160,7 +160,7 @@
             "textureMapping": [ "meat", "group3" ]
         }
     ],
-    "file": "game:recipes/cooking/pastahot.json",
+    "file": "efmealsmodule:recipes/cooking/pastahot.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   },
@@ -325,7 +325,7 @@
             "textureMapping": [ "meat", "group3" ]
         }
     ],
-    "file": "game:recipes/cooking/pastahot.json",
+    "file": "efmealsmodule:recipes/cooking/pastahot.json",
     "side": "server",
     "dependsOn": [{ "modid": "primitivesurvival" }]
   }
