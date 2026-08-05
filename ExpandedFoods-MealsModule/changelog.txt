@@ -1,14 +1,22 @@
-﻿~1.0.0-dev.6
-- Meal text updated to be more like vanilla (mealRecipeByGroup used)
-- Primitive survival meat patches corrected for meals - DONE!!!
-- Compote buffed; requires more syrup - DONE!!!
-- Wine can be used as a base for compote; spirits may be used as topping - DONE!!!
-
-- Expanded meals handbook guide moved from EF Core to EF Meals - DONE!!!
-- Dehydrated fruits removed from recipes to prepare for upcoming removal - DONE!!!
-- Simplified Chinese translation added (thanks to Aimli!) - DONE!!!
+﻿~1.0.0-dev.7
 - Recipes trimmed down, wildcards used more
-- Polish lang file updated (thanks to Regerett!) - DONE!!!
+- Meal text updated to be more like vanilla (mealRecipeByGroup used)
+
+~1.0.0-dev.6
+GENERAL:
+- Dehydrated fruits removed from recipes to prepare for upcoming removal
+- Primitive survival meat patches corrected for meals
+
+HANDBOOK THINGS:
+- Expanded meals handbook guide moved from EF Core to EF Meals
+
+REBALANCING:
+- Compote buffed; requires more syrup
+- Wine can be used as a base for compote; spirits may be used as topping
+
+MISC:
+- Simplified Chinese translation added (thanks to Aimli!)
+- Polish lang file updated (thanks to Regerett!)
 
 ~1.0.0-dev.5
 - Russian translation added (thanks to ChimMAG!)
