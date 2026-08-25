@@ -6,7 +6,7 @@
 ~1.0.0-dev.6
 GENERAL:
 - Dehydrated fruits removed from recipes to prepare for upcoming removal
-- Primitive survival meat patches corrected for meals
+- Primitive survival meat patches corrected for meals 
 
 HANDBOOK THINGS:
 - Expanded meals handbook guide moved from EF Core to EF Meals
