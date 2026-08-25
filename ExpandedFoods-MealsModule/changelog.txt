@@ -1,6 +1,7 @@
 ﻿~1.0.0-dev.7
 - Recipes trimmed down, wildcards used more
 - Meal text updated to be more like vanilla (mealRecipeByGroup used)
+- MEALS MODULE GIVEN ITS OWN DOMAIN NOW. SORRY IF THIS BREAKS ALL YOUR MEALS
 
 ~1.0.0-dev.6
 GENERAL:

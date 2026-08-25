@@ -3,7 +3,7 @@
     "op": "addmerge",
     "path": "/ingredients/5/validStacks/-",
     "value": { "type": "item", "code": "expandedfoods:acornportion",  "shapeElement": "bowl/nuts 1/*", "textureMapping": ["nuts", "acorns"]}, 
-    "file": "game:recipes/cooking/compote.json",
+    "file": "efmealsmodule:recipes/cooking/compote.json",
     "side": "server",
     "dependsOn": [{ "modid": "acorns"}]
   },
@@ -11,7 +11,7 @@
     "op": "addmerge",
     "path": "/ingredients/6/validStacks/-",
     "value": { "type": "item", "code": "expandedfoods:acornportion",  "shapeElement": "bowl/nuts 2/*", "textureMapping": ["nuts", "acorns"]}, 
-    "file": "game:recipes/cooking/compote.json",
+    "file": "efmealsmodule:recipes/cooking/compote.json",
     "side": "server",
     "dependsOn": [{ "modid": "acorns"}]
   }
