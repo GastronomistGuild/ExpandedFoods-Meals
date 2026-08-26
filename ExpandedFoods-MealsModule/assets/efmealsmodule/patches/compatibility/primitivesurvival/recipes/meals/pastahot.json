@@ -1,7 +1,7 @@
 ﻿[
   {
     "op": "addeach",
-    "path": "/ingredients/5/validStacks/-",
+    "path": "/ingredients/6/validStacks/-",
     "value": [
         {
             "type": "item",
@@ -166,7 +166,7 @@
   },
   {
     "op": "addeach",
-    "path": "/ingredients/6/validStacks/-",
+    "path": "/ingredients/7/validStacks/-",
     "value": [
         {
             "type": "item",
