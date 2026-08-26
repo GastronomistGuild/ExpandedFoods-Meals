@@ -6,7 +6,7 @@
 		"transitionRatio": 1,
 		"transitionedStack": { "type": "item", "code": "rot" }
 	},
-	"shape": { "base": "block/meal/riceandbeans" },
+	"shape": { "base": "efmealsmodule:block/meal/riceandbeans" },
 	"ingredients": [
 		{
           "code": "rice-base", 

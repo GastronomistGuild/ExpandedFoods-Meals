@@ -6,7 +6,7 @@
 		"transitionRatio": 1,
 		"transitionedStack": { "type": "item", "code": "rot" }
 	},
-	"shape": { "base": "block/meal/augratin" },
+	"shape": { "base": "efmealsmodule:block/meal/augratin" },
 	"ingredients": [
 		{
 			"code": "cheese-base", 
