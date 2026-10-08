@@ -1,9 +1,12 @@
 ﻿~1.0.0-dev.9
 - Recipes trimmed down, wildcards used more
 - Meal text updated to be more like vanilla (mealRecipeByGroup used)
-- Update sap properties for ACA spile changes (thanks to Lazula!) - DONE!!!
 - Chinese localization update (thanks to Aimli!) - DONE!!!
 - Pasta pot patch and texture moved from EF Meals back into EF Core - DONE!!!
+- Fennel stuff from Core integrated
+- Roasted grain stuff from Core integrated
+- Pilaf requires roasted grain instead of normal grain - DONE!!!
+- Cooked veggies can be used as a salad base
 
 ~1.0.0-dev.8
 - Shape path domains updated in recipes
