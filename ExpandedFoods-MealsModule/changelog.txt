@@ -1,12 +1,18 @@
-﻿~1.0.0-dev.9
+﻿~1.0.0-dev.10
 - Recipes trimmed down, wildcards used more
 - Meal text updated to be more like vanilla (mealRecipeByGroup used)
-- Chinese localization update (thanks to Aimli!) - DONE!!!
-- Pasta pot patch and texture moved from EF Meals back into EF Core - DONE!!!
-- Fennel stuff from Core integrated - DONE!!!
-- Roasted grain stuff from Core integrated - DONE!!!
-- Pilaf requires roasted grain instead of normal grain - DONE!!!
-- Cooked veggies can be used as a salad base - DONE!!!
+- Cooked fennel can be used in salads
+- New hallucinogenic mushrooms can be used in meals - DONE!!!
+- Labels added (thanks to Fuego Fish!)
+- Yogurt meal fixed
+
+~1.0.0-dev.9
+- Chinese localization update (thanks to Aimli!)
+- Pasta pot patch and texture moved from EF Meals back into EF Core
+- Fennel stuff from Core integrated
+- Roasted grain stuff from Core integrated
+- Pilaf requires roasted grain instead of normal grain
+- Cooked veggies can be used as a salad base
 
 ~1.0.0-dev.8
 - Shape path domains updated in recipes

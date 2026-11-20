@@ -97,7 +97,14 @@
 				{ "type": "item", "code": "expandedfoods:choppedmushroom-tinderhoof",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group7"]},
 				{ "type": "item", "code": "expandedfoods:choppedmushroom-violetwebcap",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group3"]},
 				{ "type": "item", "code": "expandedfoods:choppedmushroom-whiteoyster",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group7"]},
-				{ "type": "item", "code": "expandedfoods:choppedmushroom-witchhat",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group7"]}
+				{ "type": "item", "code": "expandedfoods:choppedmushroom-witchhat",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group7"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-bluemeanie",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group7"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-goldcap",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group3"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-foolsconecap",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group7"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-laughingjim",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group7"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-libertycap",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group3"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-wavycap",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group3"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-sickener",  "shapeElement": "bowl/vegetable 1/*", "textureMapping": ["vegetable", "group7"]}
 			],
 			"minQuantity": 0,
 			"maxQuantity": 1,
@@ -171,7 +178,14 @@
 				{ "type": "item", "code": "expandedfoods:choppedmushroom-tinderhoof",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group7"]},
 				{ "type": "item", "code": "expandedfoods:choppedmushroom-violetwebcap",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group3"]},
 				{ "type": "item", "code": "expandedfoods:choppedmushroom-whiteoyster",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group7"]},
-				{ "type": "item", "code": "expandedfoods:choppedmushroom-witchhat",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group7"]}
+				{ "type": "item", "code": "expandedfoods:choppedmushroom-witchhat",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group7"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-bluemeanie",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group7"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-goldcap",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group3"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-foolsconecap",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group7"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-laughingjim",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group7"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-libertycap",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group3"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-wavycap",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group3"]},
+                { "type": "item", "code": "expandedfoods:choppedmushroom-sickener",  "shapeElement": "bowl/vegetable 2/*", "textureMapping": ["vegetable", "group7"]}
 			],
 			"minQuantity": 0,
 			"maxQuantity": 1,
