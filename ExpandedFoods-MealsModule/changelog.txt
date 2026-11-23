@@ -1,10 +1,9 @@
 ﻿~1.0.0-dev.10
 - Recipes trimmed down, wildcards used more
 - Meal text updated to be more like vanilla (mealRecipeByGroup used)
-- Cooked fennel can be used in salads
+- Cooked fennel can be used in salads - DONE!!!
 - New hallucinogenic mushrooms can be used in meals - DONE!!!
-- Labels added (thanks to Fuego Fish!)
-- Yogurt meal fixed
+- Labels added (thanks to Fuego Fish!) - DONE!!!
 
 ~1.0.0-dev.9
 - Chinese localization update (thanks to Aimli!)

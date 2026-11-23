@@ -1,0 +1,16 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/textures",
+    "value":  { "efmealslabel": {"base": "game:block/clay/crock/efmealslabel"} },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/crock.json"
+  },
+  {
+    "op": "addeach",
+    "path": "/attributes/labelNames/-",
+    "value": ["augratin","compote","pastacold","pastahot","riceandbeans","meatysalad","yogurtmeal"],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/crock.json"
+  }
+]
