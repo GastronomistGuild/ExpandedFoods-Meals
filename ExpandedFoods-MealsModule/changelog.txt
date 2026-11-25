@@ -4,6 +4,7 @@
 - Cooked fennel can be used in salads - DONE!!!
 - New hallucinogenic mushrooms can be used in meals - DONE!!!
 - Labels added (thanks to Fuego Fish!) - DONE!!!
+- Hot and cold pasta now have extra optional pasta slots - DONE!!!
 
 ~1.0.0-dev.9
 - Chinese localization update (thanks to Aimli!)

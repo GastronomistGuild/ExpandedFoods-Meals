@@ -17,6 +17,24 @@
 			"maxQuantity": 1,
             "typeName": "cookedpasta"
 		},
+        {
+          "code": "pasta-extra-1",
+          "validStacks": [
+            { "type": "item", "code": "expandedfoods:pasta-cooked",  "shapeElement": "bowl/pasta", "textureMapping": ["pasta", "pasta"] }
+          ],
+          "minQuantity": 0,
+          "maxQuantity": 1,
+          "typeName": "pastaextra"
+        },
+        {
+          "code": "pasta-extra-2",
+          "validStacks": [
+            { "type": "item", "code": "expandedfoods:pasta-cooked",  "shapeElement": "bowl/pasta", "textureMapping": ["pasta", "pasta"] }
+          ],
+          "minQuantity": 0,
+          "maxQuantity": 1,
+          "typeName": "pastaextra"
+        },
 		{
 			"code": "vegetable-base", 
 			"validStacks": [ 
